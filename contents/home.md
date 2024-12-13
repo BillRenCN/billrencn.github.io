@@ -1,16 +1,16 @@
+[![jie-ren](https://img.shields.io/badge/jie-ren-github-blue?logo=github)](https://github.com/BillRenCN)
 
-
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+Jie Ren is currently pursuing a Bachelor's Degree in Computer Science at the University of Wisconsin–Madison, USA.
 
 #### Email
-sli[at]cumt.edu.cn
+jren79[at]wisc.edu
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+- **BS, Computer Science**, University of Wisconsin–Madison, 2023—2025 (expected).  
+  GPA: 4.0/4.0
+- **BS, Mathematics (Minor: Computer Science)**, University of Illinois Urbana-Champaign, 2023.  
+  GPA: 4.0/4.0
+- **BS, Computer Science**, Beijing University of Posts and Telecommunications, 2021—2023.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
-
+Deep Learning, Computer Vision, Neural Networks, AI Model Optimization, Video Processing.
