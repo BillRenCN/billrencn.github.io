@@ -6,7 +6,7 @@ This project explores mode connectivity in neural networks using Bézier surface
 - Developed a novel optimization framework extending mode connectivity from curves to surfaces using Bézier surfaces in PyTorch.
 - Conducted experiments on CIFAR-10, CIFAR-100, and Tiny-ImageNet using VGG16, ResNet18, and ViT architectures.
 - Demonstrated applications such as model averaging and output ensembling.
-- Supervised by Professor Ren Wang, with one paper under review at ICLR 2025.
+- Supervised by Professor Ren Wang, with one paper accepted by ICLR 2025.
 
 #### Video Inpainting for Subtitles
 **University of Wisconsin–Madison**  
