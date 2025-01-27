@@ -1,6 +1,6 @@
 [![jie-ren](https://img.shields.io/badge/jie-ren-github-blue?logo=github)](https://github.com/BillRenCN)
 
-Jie Ren is currently pursuing a Bachelor's Degree in Computer Science at the University of Wisconsin–Madison, USA.
+Jie Ren is currently pursuing a Bachelor's Degree in Computer Science at the University of Wisconsin–Madison.
 
 #### Email
 jren79[at]wisc.edu
