@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
 
 * {
     margin: 0;
@@ -8,11 +8,11 @@
 
 :root {
     --color-bg: #fff;
-    --color-bg-sidebar: #f9fafb;
-    --color-text: #1f2937;
-    --color-text-muted: #6b7280;
-    --color-accent: #2563eb;
-    --color-border: #e5e7eb;
+    --color-bg-sidebar: #fafafa;
+    --color-text: #111;
+    --color-text-muted: #555;
+    --color-accent: #111;
+    --color-border: #eee;
     --font-main: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
 }
 
@@ -22,8 +22,8 @@ html {
 
 body {
     font-family: var(--font-main);
-    font-size: 16px;
-    line-height: 1.7;
+    font-size: 15px;
+    line-height: 1.75;
     color: var(--color-text);
     background: var(--color-bg);
 }
