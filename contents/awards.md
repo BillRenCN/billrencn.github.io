@@ -1,4 +1,1 @@
-- **Third Prize National Scholarship**, Beijing, 2021.  
-- **H Prize in Mathematical Contest in Modeling**, Beijing, 2022.  
-- **Third Prize in Chinese Mathematics Competitions**, Beijing, 2022.  
-- **Dean’s List, College of Letters and Science**, University of Wisconsin–Madison, 2023 Fall.  
+Dean's List · UW-Madison · 2023

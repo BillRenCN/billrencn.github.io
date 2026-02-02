@@ -1,16 +1,7 @@
-[![jie-ren](https://img.shields.io/badge/jie-ren-github-blue?logo=github)](https://github.com/BillRenCN)
+MS in Information Networking @ **Carnegie Mellon University**
 
-Jie Ren is currently pursuing a Bachelor's Degree in Computer Science at the University of Wisconsin–Madison.
+Previously BS in Computer Science @ UW-Madison (4.0 GPA)
 
-#### Email
-jren79[at]wisc.edu
+I work on deep learning systems, neural network optimization, and computer vision.
 
-#### Education
-- **BS, Computer Science**, University of Wisconsin–Madison, 2023—2025 (expected).  
-  GPA: 4.0/4.0
-- **BS, Mathematics (Minor: Computer Science)**, University of Illinois Urbana-Champaign, 2023.  
-  GPA: 4.0/4.0
-- **BS, Computer Science**, Beijing University of Posts and Telecommunications, 2021—2023.
-
-#### Research Interests
-Deep Learning, Computer Vision, Neural Networks, AI Model Optimization, Video Processing.
+[GitHub](https://github.com/BillRenCN) · [LinkedIn](https://www.linkedin.com/in/jie-ren-86b066212/) · jier@andrew.cmu.edu
